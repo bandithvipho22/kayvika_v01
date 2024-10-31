@@ -31,7 +31,15 @@ Source Environment, for window
 ```bash
 source env\Scripts\activate
 ```
+or, use this
+```bash
+.\env\Scripts\Activate.ps1
+```
 Then, install library
 ```bash
 pip install -r requirements.txt
+```
+or,
+```bash
+python -m pip install -r requirements.txt
 ```
