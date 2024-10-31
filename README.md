@@ -1,3 +1,7 @@
+# Project Overview
+In this project, working on khmer sign recognition, it means the model can recognize the sign on hand gesture and generate the sign into text and speech.
+Sign language processing (SLP) is a field of research that focuses on the development
+of technologies that can understand and generate sign language. In Cambodia, communication for the deaf and mute community is difficult due to the lack of tools that translate Khmer sign language into text or speech. Existing technologies are designed for other languages, leaving a gap for Khmer speakers. This project aims to develop a real-time system that recognizes Khmer sign language, converts it into text, and generates speech, enhancing communication for the hearing-impaired.
 # Problem Statement
 There are many research projects on sign detection and recognition systems that focus
 on sign language detection. However, most of these systems only work with static sign detection
@@ -7,9 +11,6 @@ the complexity and variability of natural sign language. In addition, advanced s
 currently exist are not available for Khmer sign language recognition. Developing an action
 recognition system that translates these gestures into text and speech is essential for improving
 communication for Cambodia’s deaf and mute community.
-# Project Overview
-Sign language processing (SLP) is a field of research that focuses on the development
-of technologies that can understand and generate sign language. In Cambodia, communication for the deaf and mute community is difficult due to the lack of tools that translate Khmer sign language into text or speech. Existing technologies are designed for other languages, leaving a gap for Khmer speakers. This project aims to develop a real-time system that recognizes Khmer sign language, converts it into text, and generates speech, enhancing communication for the hearing-impaired.
 # Objective
 The primary objectives of this project are:
 + To develop a system that accurately recognizes individual Khmer sign language gestures
@@ -22,3 +23,15 @@ application, mobile application and edge devices.
 + Sign Recognition
 + Recognize sign from hand gesture, then generate it to text and speech
 # Setup Environment
+Create environment to run sign recognition code
+```bash
+python -m venv env
+```
+Source Environment, for window
+```bash
+source env\Scripts\activate
+```
+Then, install library
+```bash
+pip install -r requirements.txt
+```
