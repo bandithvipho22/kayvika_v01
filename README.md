@@ -18,3 +18,7 @@ using hand tracking and gesture recognition techniques.
 and speech.
 + To optimize the system for efficiency and scalability in real-world scenarios, such as web
 application, mobile application and edge devices.
+# Output
++ Sign Recognition
++ Recognize sign from hand gesture, then generate it to text and speech
+# Setup Environment
