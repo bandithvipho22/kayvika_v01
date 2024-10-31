@@ -20,7 +20,7 @@ and speech.
 + To optimize the system for efficiency and scalability in real-world scenarios, such as web
 application, mobile application and edge devices.
 # Output
-+ Sign Recognition
++ Sign Recognition, the system can recognize 10 signs 
 + Recognize sign from hand gesture, then generate it to text and speech
 
 ![image](https://github.com/user-attachments/assets/4f83cb29-7520-4392-a72e-9aa4a40a5c17)
