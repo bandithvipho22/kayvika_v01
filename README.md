@@ -23,9 +23,14 @@ application, mobile application and edge devices.
 + Sign Recognition
 + Recognize sign from hand gesture, then generate it to text and speech
 # Setup Environment
+For Window user, first need to install virtual env
+```bash
+python -m pip install virtualenv
+```
 Create environment to run sign recognition code
 ```bash
 python -m venv env
+python -m virtualenv env
 ```
 Source Environment, for window
 ```bash
