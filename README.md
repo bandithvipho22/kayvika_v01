@@ -22,6 +22,9 @@ application, mobile application and edge devices.
 # Output
 + Sign Recognition
 + Recognize sign from hand gesture, then generate it to text and speech
+
+![image](https://github.com/user-attachments/assets/4f83cb29-7520-4392-a72e-9aa4a40a5c17)
+
 # Setup Environment
 For Window user, first need to install virtual env
 ```bash
@@ -47,12 +50,4 @@ pip install -r requirements.txt
 or,
 ```bash
 python -m pip install -r requirements.txt
-```
-```bash
-home = C:\Program Files\Python311
-include-system-site-packages = false
-version = 3.11.9
-executable = C:\Program Files\Python311\python.exe
-command = C:\Program Files\Python311\python.exe -m venv D:\kayvika_v2\env
-
 ```
