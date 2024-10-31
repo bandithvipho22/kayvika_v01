@@ -43,3 +43,11 @@ or,
 ```bash
 python -m pip install -r requirements.txt
 ```
+```bash
+home = C:\Program Files\Python311
+include-system-site-packages = false
+version = 3.11.9
+executable = C:\Program Files\Python311\python.exe
+command = C:\Program Files\Python311\python.exe -m venv D:\kayvika_v2\env
+
+```
