@@ -1,0 +1,8 @@
+opencv-python
+numpy
+mediapipe
+tensorflow==2.17.0
+pyzmq
+torch
+transformers
+pydub
