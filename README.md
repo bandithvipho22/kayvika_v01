@@ -51,3 +51,8 @@ or,
 ```bash
 python -m pip install -r requirements.txt
 ```
+Setup this for khmer speech
+```bash
+iwr -useb get.scoop.sh | iex
+scoop install ffmpeg
+```
